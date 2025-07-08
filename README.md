@@ -1,4 +1,5 @@
 # duck-duck-goose-Game
+Let's play the game!
 .
 .
 .
